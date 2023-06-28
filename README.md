@@ -1,31 +1,30 @@
 # Computer-Networks
 
-## **Opis:**
-Computer-Networks to repozytorium dedykowane programowaniu i pracy z sieciami komputerowymi. Znajdziesz tutaj przykładowe projekty, skrypty i materiały edukacyjne związane z pojęciami i protokołami sieciowymi.
+## **Description:**
+Computer-Networks is a repository dedicated to programming and working with computer networks. Here you will find example projects, scripts and educational materials related to network concepts and protocols.
 
-## **Struktura Repozytorium:**
-/Projekty: Ten folder zawiera różne projekty, w których wykorzystuje się programowanie i pracę z sieciami komputerowymi. Każdy projekt ma swój własny folder z opisem i kodem źródłowym.
+## **Repository Structure:**
+/Projects: This folder contains various projects that use programming and networking. Each project has its own folder with description and source code.
 
-/Skrypty: W tym folderze znajdziesz przydatne skrypty i narzędzia, które mogą ułatwić pracę z sieciami komputerowymi.
+/Scripts: In this folder you will find useful scripts and tools that can help you work with computer networks.
 
-/Tutoriale: Tutaj znajdziesz zbiór tutoriali, prezentacji, dokumentacji i artykułów związanych z sieciami komputerowymi.
+/Tutorials: Here you will find a collection of tutorials, presentations, documentation and articles related to computer networking.
 
-## **Jak zacząć:**
+## **How ​​to start:**
 
-Sklonuj repozytorium na swój lokalny komputer:
+Clone the repository to your local computer:
 ```
-git clone https://github.com/twojenazwauzytkownika/Computer-Networks.git
+git clone https://github.com/yourusername/Computer-Networks.git
 ```
 
-Przeglądaj dostępne projekty, skrypty i materiały edukacyjne w odpowiednich folderach.
+Browse available projects, scripts and learning materials in their respective folders.
 
-Wypróbuj kod źródłowy i eksperymentuj z sieciami komputerowymi na podstawie dostępnych przykładów.
+Try out the source code and experiment with computer networks based on the available examples.
 
-## **Wymagania systemowe**
-Aby pracować z sieciami komputerowymi, będziesz potrzebować oprogramowania do symulacji sieci lub narzędzi programistycznych do pracy z sieciami komputerowymi, takich jak Wireshark, Cisco Packet Tracer lub bibliotek programistycznych takich jak moduł `socket` w języku Python. Upewnij się, że masz zainstalowane niezbędne oprogramowanie zgodnie z Twoimi wymaganiami.
+## **System requirements**
+To work with computer networks, you will need network simulation software or development tools for working with computer networks, such as Wireshark, Cisco Packet Tracer, or development libraries such as the socket module in Python. Make sure you have the necessary software installed according to your requirements.
 
-## **Wkład i Wsparcie**
-Jeśli chcesz przyczynić się do tego repozytorium, możesz zgłaszać problemy, tworzyć pull requesty lub udostępniać swoje własne projekty związane z sieciami komputerowymi. Wszelkie wkłady są mile widziane!
+## **Contributions and Support**
+If you want to contribute to this repository, you can report issues, create pull requests, or share your own computer network projects. Any contributions are welcome!
 
-Jeśli masz pytania lub potrzebujesz pomocy, skontaktuj się ze mną poprzez e-mail lub przez platformę GitHub.
-
+If you have any questions or need help, please contact me via email or GitHub.
