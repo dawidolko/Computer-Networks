@@ -6,9 +6,7 @@ Computer-Networks is a repository dedicated to programming and working with comp
 ## **Repository Structure:**
 /Projects: This folder contains various projects that use programming and networking. Each project has its own folder with description and source code.
 
-/Scripts: In this folder you will find useful scripts and tools that can help you work with computer networks.
-
-/Tutorials: Here you will find a collection of tutorials, presentations, documentation and articles related to computer networking.
+/Labs: In this folder you will find useful scripts and tools that can help you work with computer networks.
 
 ## **How ​​to start:**
 
