@@ -1,24 +1,24 @@
-# Projekty związane z Sieciami Komputerowymi
-Witaj w świecie projektów związanych z sieciami komputerowymi! Ten obszar programowania oferuje możliwość eksploracji, projektowania i implementacji różnorodnych rozwiązań sieciowych. Programowanie w dziedzinie sieci komputerowych pozwala na tworzenie zaawansowanych i wydajnych systemów komunikacyjnych, które umożliwiają przesyłanie danych, udostępnianie zasobów oraz integrację różnych urządzeń.
+# Projects related to Computer Networks
+Welcome to the world of computer network projects! This area of ​​programming offers the opportunity to explore, design and implement a variety of network solutions. Programming in the field of computer networks allows you to create advanced and efficient communication systems that enable data transfer, resource sharing and integration of various devices.
 
-## Dlaczego warto zajmować się projektem związanymi z sieciami komputerowymi?
-Eksploracja technologii sieciowych: Projekty w dziedzinie sieci komputerowych pozwalają na zgłębianie różnych technologii, protokołów i standardów, które są kluczowe dla funkcjonowania dzisiejszych sieci.
+## Why is it worth dealing with a project related to computer networks?
+Exploration of networking technologies: Computer networking projects allow you to explore various technologies, protocols and standards that are crucial to the functioning of today's networks.
 
-Tworzenie efektywnych rozwiązań: Programowanie sieciowe pozwala na projektowanie i implementację efektywnych rozwiązań komunikacyjnych, które są niezbędne w dzisiejszych złożonych i rozbudowanych sieciach.
+Creating effective solutions: Network programming allows you to design and implement effective communication solutions that are essential in today's complex and extensive networks.
 
-Udoskonalanie wydajności sieci: Projekty w dziedzinie sieci komputerowych pozwalają na optymalizację i doskonalenie wydajności sieci, co ma kluczowe znaczenie dla szybkiego i niezawodnego przesyłania danych.
+Network Performance Improvement: Networking projects optimize and improve network performance, which is crucial for fast and reliable data transfer.
 
-Bezpieczeństwo sieci: Programowanie sieciowe umożliwia tworzenie zabezpieczeń i mechanizmów ochrony danych, co jest niezwykle ważne w obliczu rosnących zagrożeń w cyberprzestrzeni.
+Network security: Network programming allows you to create security and data protection mechanisms, which is extremely important in the face of growing threats in cyberspace.
 
-## Przykładowe projekty:
-Aplikacja do monitorowania sieci: Tworzenie aplikacji, która umożliwia monitorowanie i analizę wydajności sieci, diagnozowanie problemów i przewidywanie awarii.
+## Sample projects:
+Network Monitoring Application: Create an application that allows you to monitor and analyze network performance, diagnose problems, and predict failures.
 
-Aplikacja VoIP (Voice over Internet Protocol): Programowanie aplikacji, która pozwala na prowadzenie rozmów głosowych i wideokonferencji za pośrednictwem internetu.
+VoIP (Voice over Internet Protocol) application: Programming an application that allows you to conduct voice calls and video conferences via the Internet.
 
-System kontroli dostępu: Projektowanie systemu, który zarządza dostępem do zasobów sieciowych, zapewniając bezpieczny dostęp tylko dla uprawnionych użytkowników.
+Access control system: Designing a system that manages access to network resources, ensuring secure access only to authorized users.
 
-Aplikacja do transferu plików: Tworzenie aplikacji umożliwiającej szybki i bezpieczny transfer plików między urządzeniami w sieci.
+File Transfer Application: Create an application that allows you to quickly and securely transfer files between devices on your network.
 
-Aplikacja do analizy ruchu sieciowego: Programowanie aplikacji, która analizuje ruch sieciowy, identyfikuje wzorce i wykrywa nieprawidłowości.
+Network Traffic Analysis Application: Program an application that analyzes network traffic, identifies patterns, and detects anomalies.
 
-Zapraszamy do uczestnictwa w projektach związanych z sieciami komputerowymi i doświadczania wartości, jakie te rozwiązania przynoszą dla dzisiejszych rozbudowanych i dynamicznych sieci. Niech te projekty stanowią inspirację do tworzenia zaawansowanych i innowacyjnych rozwiązań, które przyczyniają się do rozwoju technologii i poprawy funkcjonowania sieci komunikacyjnych.
+We invite you to participate in computer networking projects and experience the value these solutions bring to today's extensive and dynamic networks. Let these projects serve as an inspiration to create advanced and innovative solutions that contribute to the development of technology and improvement of the functioning of communication networks.
